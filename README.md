@@ -3,11 +3,11 @@ This repository contains a collection of Jupyter Notebooks demonstrating various
 
 
 **Contents**
-Text Analytics Coursework (text_analytics_part1.ipynb): This notebook covers fundamental text analytics tasks, including data loading, cleaning, tokenization, part-of-speech (POS) tagging, and the identification of meaningful words. It also explores word co-occurrence and clustering based on word distances calculated using co-occurrence and Dijkstra's algorithm. This project likely involves sentiment analysis or similar classification, as indicated by the mention of "Emotion dataset" and "risk," "neutral," or "opportunity" sentiments.
+**Text Analytics Coursework** **(text_analytics_part1.ipynb):** This notebook covers fundamental text analytics tasks, including data loading, cleaning, tokenization, part-of-speech (POS) tagging, and the identification of meaningful words. It also explores word co-occurrence and clustering based on word distances calculated using co-occurrence and Dijkstra's algorithm. This project likely involves sentiment analysis or similar classification, as indicated by the mention of "Emotion dataset" and "risk," "neutral," or "opportunity" sentiments.
 
-Named Entity Recognition (Task.ipynb): This notebook focuses on building and evaluating a Named Entity Recognition (NER) model. It leverages the HuggingFace transformers library for tasks such as tokenization with AutoTokenizer, token classification with AutoModelForTokenClassification, and training with Trainer. The project utilizes the "Broad Twitter Corpus (BTC)" dataset and employs seqeval for comprehensive metric computation.
+**Named Entity Recognition (Task.ipynb)**: This notebook focuses on building and evaluating a Named Entity Recognition (NER) model. It leverages the HuggingFace transformers library for tasks such as tokenization with AutoTokenizer, token classification with AutoModelForTokenClassification, and training with Trainer. The project utilizes the "Broad Twitter Corpus (BTC)" dataset and employs seqeval for comprehensive metric computation.
 
-NLP and Machine Learning Fundamentals (AI.ipynb): This notebook delves into foundational NLP and ML concepts. It includes:
+**NLP and Machine Learning Fundamentals (AI.ipynb):** This notebook delves into foundational NLP and ML concepts. It includes:
 
 Data Loading and Cleaning: Processing text from various sources like Project Gutenberg.
 Text Preprocessing: Normalization, sentence tokenization, and filtering of meaningful words.
