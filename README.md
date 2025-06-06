@@ -16,8 +16,11 @@ A comparison of results from different methods, presented in a table or plot, al
 
 An analysis to identify topics associated with climate-related risks or opportunities within the dataset. This includes explaining the chosen method for topic identification, justifying the approach, comparing variations of the method, and interpreting results with a summary of limitations.
 **
+
 Task 3: Named Entity Recognition (NER) on Twitter**
-The goal of this task is to develop a tool for Named Entity Recognition from Twitter posts. This tool aims to extract information about particular people, organizations, and locations from unstructured social media text. The project utilizes the Broad Twitter Corpus (BTC) dataset for training and testing the NER tagger. Key aspects include:
+The goal of this task is to develop a tool for Named Entity Recognition from Twitter posts. This tool aims to extract information about particular people, organizations, and locations from unstructured social media text. The project utilizes the Broad Twitter Corpus (BTC) dataset for training and testing the NER tagger. 
+
+Key aspects include:
 Designing and implementing a sequence tagger for the BTC dataset.
 Providing a detailed explanation of the chosen NER method, its strengths, and limitations.
 Evaluating the performance of the implemented method, including the choice of performance metrics, testing procedures, and analysis of results (e.g., plots/tables).
